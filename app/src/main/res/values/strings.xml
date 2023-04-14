@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">jocalc</string>
+    <string name="calculator">Calculator</string>
+    <string name="web">Web</string>
+    <string name="intent">intent</string>
+    <string name="answer_here">Answer here</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="enter_second_number">Enter Second number</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="sms">Sms</string>
+    <string name="dial">Dial</string>
+    <string name="call">Call</string>
+    <string name="camera">camera</string>
+    <string name="share">share</string>
+    <string name="mpesa">mpesa</string>
+    <string name="email">Email</string>
+</resources>
